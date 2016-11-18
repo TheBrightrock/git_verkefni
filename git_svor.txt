@@ -25,3 +25,9 @@ Git spurningar og svör
 4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
 
 Í git er version control sem leyfir notendanum að leita í gegnum eldri útgáfur af commit. 
+
+
+5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+Klukkutíma fresti. Þú vilt ekki hafa of mörg commit því það bættist upp fljótlega.
+
