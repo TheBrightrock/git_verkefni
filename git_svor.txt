@@ -1,1 +1,10 @@
 Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	
+	cd: Breytir hvar command line er að vinna.
+	cd ~: Breytir working directory í "Home".
+	ls: "Skrifar öll skjöl sem eru í working directoy.
+	pwd: Skrifar working directory.
+	mkdir: Býr til Folder.
+
