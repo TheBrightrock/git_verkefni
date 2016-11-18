@@ -15,3 +15,9 @@ Git spurningar og svör
 	git status: Sýnir hvernig aðstæður verkefnið er í.
 	git diff: Sýnir mismun á tvemur branches.
 	git checkout: Skiptir á milli git greinum.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	
+	a) git diff: Sýnir alla mismunni á tvemur greinum
+	b) git diff --staged: Sýnir mismun á síðasta commit og núverandi stöðu. 
+	c) git diff commit1 commit2: Sýnir mismun á ákveðum commit.
