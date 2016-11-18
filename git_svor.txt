@@ -8,3 +8,10 @@ Git spurningar og svör
 	pwd: Skrifar working directory.
 	mkdir: Býr til Folder.
 
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+	git clone: Aftritar skjal.
+	git log: Sýnir hvað er búið að gera í git repository.
+	git status: Sýnir hvernig aðstæður verkefnið er í.
+	git diff: Sýnir mismun á tvemur branches.
+	git checkout: Skiptir á milli git greinum.
