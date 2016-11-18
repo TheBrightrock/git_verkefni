@@ -21,3 +21,7 @@ Git spurningar og svör
 	a) git diff: Sýnir alla mismunni á tvemur greinum
 	b) git diff --staged: Sýnir mismun á síðasta commit og núverandi stöðu. 
 	c) git diff commit1 commit2: Sýnir mismun á ákveðum commit.
+
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
+
+Í git er version control sem leyfir notendanum að leita í gegnum eldri útgáfur af commit. 
