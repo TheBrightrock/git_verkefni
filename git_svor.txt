@@ -34,3 +34,8 @@ Klukkutíma fresti. Þú vilt ekki hafa of mörg commit því það bættist upp
 6. Hvernig eru Working directory, Staging area og Repository frábrugðin í GIT, til hvers eru þau?
 
 Til að einfalda vinnuferlið fyrir þér. Hjálpa þér að hafa gögnin ekki út um allt. Working directory er skjalið sem forritið er að vinna í. Staging area er þar sem þú getur unnið í skjölunum án þess að hafa áhrif á forritið þangað til þú ýtir á commit. Repository er staðsetning sem það er geymt öll gögnin.
+
+
+7. Hvenær væri sniðugt að nota branches? 
+
+Þegar það vill bæta við einhverju mikilvægu án þess að hafa áhrif á aðal kóðann.
